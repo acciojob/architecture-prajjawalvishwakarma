@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+body {
+  width: 1100px;
+  margin: 0 auto; /* centers the page */
+  background-color: grey;
+}
+table{
+	width: 80%;
+	border: 1px solid black;
+	margin: 30px auto;
+}
+.middle{
+	width: 600px;
+}
+
+.leftBox{
+	width: 200px;
+}
+td{
+	border: 1px solid black;
+}
+.rightBox{
+	width: 200px;
+}
+#t12,#t13{
+	width: 200px;
+	height: 100px;
+}
+#t21,#t23{
+	height: 200px
+	
+}
